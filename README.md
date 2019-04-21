@@ -8,3 +8,4 @@ Used `cvxpy` in python instead of Matlab.
 * `numpy`
 * `cvxpy` (not `cvxopt`)
 * `matplotlib`
+* `scipy`
